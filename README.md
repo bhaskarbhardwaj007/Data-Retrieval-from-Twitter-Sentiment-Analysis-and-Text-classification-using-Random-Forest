@@ -22,11 +22,12 @@ Build application on your developer account.<br>
 Create keys that you need for this project.<br>
 These keys are :- Consumer key, consumer secret key, access token and access token secret.<br>
 These are highly secretive keys, so do not share it with anyone<br>
-Replace below part with your keys :-<br>
-consumer_key = '*********your key********'<br>
-consumer_key_secret = '*************your key****************'<br>
-access_token = '*************your key*********'<br>
-access_token_secret = '************your key************'<br>
-Offcourse remove '*' from above !!!<br><br>
-
+Replace below part in code with your keys :-<br>
+consumer_key = 'your key'<br>
+consumer_key_secret = 'your key'<br>
+access_token = 'your key'<br>
+access_token_secret = 'your key'<br>
+<br>
 Check the directories properly.
+
+# Feel free to use the code
