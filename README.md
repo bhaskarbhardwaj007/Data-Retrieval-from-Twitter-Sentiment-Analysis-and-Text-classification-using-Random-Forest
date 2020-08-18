@@ -3,6 +3,11 @@ Download the dataset from given link http://mlg.ucd.ie/datasets/bbc.html<br>
 
 # DESCRIPTION<br>
 This project is my master's project that I did in my college. And it is divided into 2 parts<br>
+See activity diagram for more details:-<br>
+![Bhaskar](https://user-images.githubusercontent.com/52116851/90570760-3c6dd980-e165-11ea-83b0-8269e7de71c2.png)
+
+
+
 # In the first part<br>
 This project fetches the 2 given inputs from Twitter. Then it saves all tweets in 2 files. <br>
 Perform sentiment analysis on Twitter. <br>
