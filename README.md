@@ -43,5 +43,5 @@ Check the directories properly.
 # Feel free to use the code
 
 # NOTE:-
-For my college work I also made my own dataset. And merged it with BBC NEWS dataset to cover the more probability distribution in a class. I did it because BBC NEWS dataset contains whole article and Twitter can contain maximum of 280 characters.<br>
+For my college work I also made my own dataset (this dataset is based on Twitter). And merged it with BBC NEWS dataset to cover the more probability distribution in a class. I did it because BBC NEWS dataset contains whole article and Twitter can contain maximum of 280 characters.<br>
 I have not included that part in the above code.
