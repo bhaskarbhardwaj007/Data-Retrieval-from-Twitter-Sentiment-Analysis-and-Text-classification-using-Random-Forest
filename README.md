@@ -25,7 +25,10 @@ pip install textblob
 Make developer account on Twitter. This process can take several days, because Twitter team will do background checking on you.<br>
 Build application on your developer account.<br>
 Create keys that you need for this project.<br>
-These keys are :- Consumer key, consumer secret key, access token and access token secret.<br>
+See the below image for keys:-<br>
+<
+![api keys](https://user-images.githubusercontent.com/52116851/90570963-ab4b3280-e165-11ea-9065-31d86daca881.PNG)
+These keys are :- API key = Consumer key, API secret key = consumer secret key, access token and access token secret.<br>
 These are highly secretive keys, so do not share it with anyone<br>
 Replace below part in code with your keys :-<br>
 consumer_key = 'your key'<br>
@@ -34,5 +37,7 @@ access_token = 'your key'<br>
 access_token_secret = 'your key'<br>
 <br>
 Check the directories properly.
+
+
 
 # Feel free to use the code
